@@ -21,4 +21,11 @@ Tetapi jangan meniru isinya, karena ini hanya contoh.
 ## Task
 ### 1. Membuat Jembatan
 Pada task ini, membuat jembatan hasil dari pembelajaran proses concurrent yang dilakukan pada Go.
+
+Berikut kode hasil dari praktikum ini.
+
+[jembatan.go](./praktikum/jembatan.go)
+
+output:
+
 ![jembatan](./screenshots/jembatan.jpg)
